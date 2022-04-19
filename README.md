@@ -35,7 +35,7 @@ Features:
 Disclosure:
    1.This main branch contains the final product.
 Contributors:
-   1.Sainath Amara(Admin module)
+   1.Sainath Amara(Admin module).
    2.Prabath Chaurasyia(receptionist module)
    3.Sameeullah(Admin module)
    4.Niranjan(Customer module)
